@@ -18,6 +18,7 @@ Mener une analyse pré-exploratoire pour déterminer si le jeu de données a une
 
  ## Livrables :
  * notebook.ipynb : notebook jupyter comportant les analyses pré-exploratoires réalisées
+ * toolbox.py : fonctions utilisées dans le notebook
  * presentation.pdf : support de présentation pour la soutenance
 
 ## Méthodologie suivie : 
