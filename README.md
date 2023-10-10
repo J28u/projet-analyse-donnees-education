@@ -8,10 +8,6 @@ Formation OpenClassrooms - Parcours data scientist - Projet Professionnalisant (
   * Jupyter Notebook
   * Python (pandas, numpy, matplotlib, seaborn, missingno)
 
- ## Livrables :
- * notebook.ipynb : notebook jupyter comportant les analyses pré-exploratoires réalisées
- * presentation.pdf : support de présentation pour la soutenance
-
 ## Le contexte : 
 Le client, une startup fictive nommée «Academy», propose des cours en ligne niveau lycée et plus. Il a pour projet de développer ses activités à l’internationale et aimerait identifier les pays dans lesquels opérer en priorité. 
 
@@ -19,6 +15,10 @@ Notre manager nous a confié plusieurs fichiers contenant des milliers d’indic
 
 ## La mission : 
 Mener une analyse pré-exploratoire pour déterminer si le jeu de données a une qualité suffisante pour informer le projet d’expansion de l’entreprise. Si oui, proposer une liste de pays correspondants aux critères du client.
+
+ ## Livrables :
+ * notebook.ipynb : notebook jupyter comportant les analyses pré-exploratoires réalisées
+ * presentation.pdf : support de présentation pour la soutenance
 
 ## Méthodologie suivie : 
 1. Nettoyage des données :
